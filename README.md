@@ -1,2 +1,2 @@
 # lab1
-this is for lab1
+this is for laboratory
